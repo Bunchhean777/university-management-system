@@ -4,6 +4,10 @@
     UNIVERSITY : ROYAL UNIVERSITY OF PHNOM PENH
 */
 
+/**
+ * Author: Bunchhean Chhoung
+ **/ 
+
 #include <iostream>
 #include <fstream>
 #include <iomanip>
